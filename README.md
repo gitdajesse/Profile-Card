@@ -2,8 +2,6 @@
 
 A modern, visually engaging **profile card UI** featuring a full-screen video background, social media links, call-to-action button, and interactive analytics counters. Perfect for personal websites, developer portfolios, or "link-in-bio" style pages.
 
-![Profile Card Preview]()  
-
 ---
 
 ## ✨ Features
